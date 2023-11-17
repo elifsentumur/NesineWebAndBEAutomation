@@ -1,0 +1,8 @@
+@objects
+   loginButton css [data-test-id=header-login-btn]
+
+= Main section =
+   loginButton:
+      width is at least 58 px
+      height is at least 28 px
+
